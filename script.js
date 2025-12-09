@@ -23,6 +23,31 @@ const STAFF = [Admin, Office, Counselor, CTE, History, Maths, Gym, Dean, Languag
 
 ////////// MAKE YOUR UPDATES WITHIN THIS SECTION //// 
 
+Admin.splice(0,5, "Drysdale", "Simpkins", "Woodham");
+CTE.splice(0,7, "Alphonse", "Frazer", "Pelzer", "Gomes", "Ramsawak", "Shams", "Pierre");
+History.splice(0,7, "Headlam", "Lucas", "Urena", "Smith", "Amell");
+Counselor.splice(0,4, "Molina", "Cooper", "Desroches");
+Maths.splice(0, 6, "Koelsch", "Freck", "Wong", "Minto", "Forth");
+Gym.splice(0,4, "Banta", "McCalary");
+Dean.splice(0, 5, "Frazer", "Mollison");
+Language.splice(0, 6, "Weaver", "Nowakowski", "Vallejo");
+Science.splice(0,4, "Davies", "Lynch", "Boswell");
+English.splice(0,7, "Griszell", "Grant", "Gomez", "Taveras");
+Office.splice(0,3, "Martinez", "Mike", "Tirado");
+Support.splice(0,5, "Kabir", "Slater", "Rodriguez", "Steele", "Sherman");
+SSC.splice(0,1, "Ricky");
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
